@@ -1,4 +1,4 @@
-![Nero Icon](./Icon.png)
+<img src="./Icon.png" alt=“Nero Icon” width="96" height="96">
 
 ## I'm Nero.
 
