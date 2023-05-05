@@ -1,4 +1,4 @@
-<img src="./Icon.png" alt=“Nero Icon” width="96" height="96">
+<html><body><img src="Icon.png" alt=“Nero Icon” width="64" height="64"/></body></html>
 
 ## I'm Nero.
 
